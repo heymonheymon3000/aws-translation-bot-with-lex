@@ -11,5 +11,18 @@ If you want to translate a word or sentence into another language, all you have 
 * **Amazon Translate**: Used for translation of the sentence according to the input language specified.
 
 ## ☁️ AWS Architecture
+![alt text](design/amazon-lex.png)
+
+### Intent Details
+![alt text](design/intent-details.png)
+
+### Custom Language Slot
+![alt text](design/custom-language-slot.png)
+
+### Sample utterances
+![alt text](design/sample-utterances.png)
 
 ## &rarr; Final Result
+![alt text](design/bot-results.png)
+
+
