@@ -12,5 +12,4 @@ If you want to translate a word or sentence into another language, all you have 
 
 ## ☁️ AWS Architecture
 
-
 ## &rarr; Final Result
